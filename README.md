@@ -12,7 +12,7 @@ The goal was to identify, exploit, and assess password security, highlighting cr
 
 ## 📎 📁 Documentation 
 Full documentation available in the `docs` folder:  
-📄 [`penetration_testing_and_vulnerability.pdf`](./docs/Active_Directory_Environment_Setup_and_Hardening.pdf)
+📄 [`penetration_testing_and_vulnerability.pdf`](./docs/Penetration_testing_and_vulnerability_assessment.pdf)
 
 ---
 
